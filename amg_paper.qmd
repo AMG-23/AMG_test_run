@@ -3,6 +3,19 @@ title: "an Amazing Mega Giga paper"
 author: "AMG-23, buhmlu, ernouf, gloria-lng, solmsan"
 format: html
 editor: visual
+bibliography: references.bib
 ---
 
-Illustrationen
+## Illustrations
+
+![Halle, "Marktplatz"](https://verliebtinhalle.de/fileadmin/user_upload/Relaunch_Media/Bilder/Bilder_Kultur/Marktplatz_Halle_Roter_Turm__c_Thomas_Ziegler_Stadt_Halle.jpg)
+
+|          | Amazing Mega Giga paper                | Other papers         |
+|----------|----------------------------------------|----------------------|
+| Title    | great !                                | bland :(             |
+| Content  | inspiring, concise and highly relevant | not the same         |
+| Pictures | pretty                                 | not so pretty graphs |
+
+: important aspects of an Amazing Mega Giga paper
+
+This is also underlined by @couto2012 and further explored by @kamiya2012.
