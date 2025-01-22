@@ -5,8 +5,22 @@ format: html
 editor: visual
 bibliography: references.bib
 
-
 ---
+
+## Illustrations
+
+![Halle, "Marktplatz"](https://verliebtinhalle.de/fileadmin/user_upload/Relaunch_Media/Bilder/Bilder_Kultur/Marktplatz_Halle_Roter_Turm__c_Thomas_Ziegler_Stadt_Halle.jpg)
+
+|          | Amazing Mega Giga paper                | Other papers         |
+|----------|----------------------------------------|----------------------|
+| Title    | great !                                | bland :(             |
+| Content  | inspiring, concise and highly relevant | not the same         |
+| Pictures | pretty                                 | not so pretty graphs |
+
+: important aspects of an Amazing Mega Giga paper
+
+This is also underlined by @couto2012 and further explored by @kamiya2012.
+
 
 ## Introduction
 Mercedes-Benz, a brand synonymous with luxury, innovation, and engineering excellence, has maintained its position as a global leader in the automotive industry for over a century. Founded in 1926, Mercedes has continuously set benchmarks in automobile design, safety, and performance, embodying the ethos of "The Best or Nothing." From pioneering safety features like airbags and anti-lock braking systems to redefining luxury with cutting-edge interior technology, Mercedes-Benz has consistently pushed the boundaries of what is possible in automotive manufacturing.
@@ -57,4 +71,5 @@ Die Eleganz der Wagen wird auf dem Bild ersichtlich.
 ## **Conclusion** 
 
 Dies ist ein Test, ob die Zusammenführung der einzelnen Sektionen einwandfrei funktioniert.
+
 
