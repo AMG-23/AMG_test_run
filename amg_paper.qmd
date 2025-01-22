@@ -4,7 +4,6 @@ author: "AMG-23, buhmlu, ernouf, gloria-lng, solmsan"
 format: html
 editor: visual
 bibliography: references.bib
-csl: apa.csl
 
 
 ---
