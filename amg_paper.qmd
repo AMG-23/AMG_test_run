@@ -9,7 +9,19 @@ editor: visual
 
 ## Methods
 
+This is a super fancy model. No one will understand it. $$
+\begin{aligned}
+    &1. \quad \lambda_t = \beta \mathbb{E}_t \left[ \lambda_{t+1} (1 + r_{t+1}) \right], \quad \text{(Euler equation)} \\[10pt]
+    &2. \quad \phi_t = (1-\alpha) Y_t / L_t, \quad \text{(Marginal product of labor)} \\[10pt]
+    &3. \quad W_t / P_t = \phi_t + \chi L_t^\eta, \quad \text{(Labor market clearing)} \\[10pt]
+    &4. \quad \pi_t = \beta \mathbb{E}_t \pi_{t+1} + \kappa (Y_t - \bar{Y}), \quad \text{(New Keynesian Phillips Curve)} \\[10pt]
+    &5. \quad Y_t = C_t + I_t + G_t, \quad \text{(Resource constraint)} \\[10pt]
+    &6. \quad I_t = \delta K_t + \Psi \left( \frac{I_t}{K_t} - \delta \right)^2 K_t, \quad \text{(Capital accumulation)} \\[10pt]
+    &7. \quad K_{t+1} = (1-\delta) K_t + I_t, \quad \text{(Law of motion for capital)} \\[10pt]
+    &8. \quad R_t = r_t + \pi_t, \quad \text{(Monetary policy or Fisher equation)}
+\end{aligned}
+$$
+
 ## Results
 
 ## Discussion
-
