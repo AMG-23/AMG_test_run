@@ -11,5 +11,20 @@ editor: visual
 
 ## Results
 
+Die Ergebnisse sind in der Tabelle aufgeführt.
+
+| Jahr | AMG 63 E | AMG 63 S |
+|------|----------|----------|
+| 2022 | 5.345    | 3.456    |
+| 2023 | 5.456    | 3.756    |
+| 2024 | 6.089    | 3.976    |
+
+: Absatzmenge im jeweiligen Geschäftsjahr.
+
+Die Eleganz der Wagen wird auf dem Bild ersichtlich.
+
+![Mercedes AMG GT 63 S in voller Eleganz](https://img.classistatic.de/api/v1/mo-prod/images/1f/1f220416-6d01-489b-a4c2-62b77e428f36?rule=mo-1600.jpg)
+
 ## Discussion
 
+## Conclusions
