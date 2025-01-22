@@ -3,13 +3,24 @@ title: "an Amazing Mega Giga paper"
 author: "AMG-23, buhmlu, ernouf, gloria-lng, solmsan"
 format: html
 editor: visual
+bibliography: references.bib
 ---
 
 ## Introduction
+Mercedes-Benz, a brand synonymous with luxury, innovation, and engineering excellence, has maintained its position as a global leader in the automotive industry for over a century. Founded in 1926, Mercedes has continuously set benchmarks in automobile design, safety, and performance, embodying the ethos of "The Best or Nothing." From pioneering safety features like airbags and anti-lock braking systems to redefining luxury with cutting-edge interior technology, Mercedes-Benz has consistently pushed the boundaries of what is possible in automotive manufacturing.
+
+This paper delves into the multifaceted operations of Mercedes-Benz, exploring its commitment to innovation, sustainability, and customer-centric design. It examines how the company leverages advanced technologies such as electric mobility and autonomous driving to stay ahead in a highly competitive market. Additionally, the discussion highlights Mercedes-Benz's strategies for balancing tradition with innovation, as it adapts to the evolving demands of a global customer base while maintaining its hallmark reputation for quality and prestige.
+
+Here, you can see a picture of an AMG:
+
+![AMG](https://cdn.motor1.com/images/mgl/XBGv4l/s1/mercedes-amg-gt-gt2-pro.webp)
+
+While this picture is obviously amazing by itself, we can also rely on great studies on the automobile industry, for example by [@shifting2024]. 
+
+
 
 ## Methods
 
 ## Results
 
 ## Discussion
-
