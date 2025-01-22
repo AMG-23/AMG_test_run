@@ -51,10 +51,10 @@ Dies ist ein Test, ob die Zusammenführung der einzelnen Sektionen einwandfrei f
 
 |          | Amazing Mega Giga paper                | Other papers         |
 |----------|----------------------------------------|----------------------|
-| Title    | great !                                | bland :(             |
+| Title    | great !                                | :(                   |
 | Content  | inspiring, concise and highly relevant | not the same         |
 | Pictures | pretty                                 | not so pretty graphs |
 
 : important aspects of an Amazing Mega Giga paper
 
-This is also underlined by @couto2012 and further explored by @kamiya2012.
+
