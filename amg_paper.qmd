@@ -1,0 +1,8 @@
+---
+title: "an Amazing Mega Giga paper"
+author: "AMG-23, buhmlu, ernouf, gloria-lng, solmsan"
+format: html
+editor: visual
+---
+
+Illustrationen
