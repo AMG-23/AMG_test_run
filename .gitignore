@@ -33,3 +33,7 @@
 .Rproj.user
 .Rhistory 
 project.Rproj
+
+
+# qmd
+*.html
