@@ -13,3 +13,6 @@ editor: visual
 
 ## Discussion
 
+## **Conclusion** 
+
+Dies ist ein Test, ob die Zusammenführung der einzelnen Sektionen einwandfrei funktioniert.
