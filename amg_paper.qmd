@@ -1,0 +1,75 @@
+---
+title: "an Amazing Mega Giga paper"
+author: "AMG-23, buhmlu, ernouf, gloria-lng, solmsan"
+format: html
+editor: visual
+bibliography: references.bib
+
+---
+
+## Illustrations
+
+![Halle, "Marktplatz"](https://verliebtinhalle.de/fileadmin/user_upload/Relaunch_Media/Bilder/Bilder_Kultur/Marktplatz_Halle_Roter_Turm__c_Thomas_Ziegler_Stadt_Halle.jpg)
+
+|          | Amazing Mega Giga paper                | Other papers         |
+|----------|----------------------------------------|----------------------|
+| Title    | great !                                | bland :(             |
+| Content  | inspiring, concise and highly relevant | not the same         |
+| Pictures | pretty                                 | not so pretty graphs |
+
+: important aspects of an Amazing Mega Giga paper
+
+This is also underlined by @couto2012 and further explored by @kamiya2012.
+
+
+## Introduction
+Mercedes-Benz, a brand synonymous with luxury, innovation, and engineering excellence, has maintained its position as a global leader in the automotive industry for over a century. Founded in 1926, Mercedes has continuously set benchmarks in automobile design, safety, and performance, embodying the ethos of "The Best or Nothing." From pioneering safety features like airbags and anti-lock braking systems to redefining luxury with cutting-edge interior technology, Mercedes-Benz has consistently pushed the boundaries of what is possible in automotive manufacturing.
+
+This paper delves into the multifaceted operations of Mercedes-Benz, exploring its commitment to innovation, sustainability, and customer-centric design. It examines how the company leverages advanced technologies such as electric mobility and autonomous driving to stay ahead in a highly competitive market. Additionally, the discussion highlights Mercedes-Benz's strategies for balancing tradition with innovation, as it adapts to the evolving demands of a global customer base while maintaining its hallmark reputation for quality and prestige.
+
+Here, you can see a picture of an AMG:
+
+![AMG](https://cdn.motor1.com/images/mgl/XBGv4l/s1/mercedes-amg-gt-gt2-pro.webp)
+
+While this picture is obviously amazing by itself, we can also rely on great studies on the automobile industry, for example by [@shifting2024]. 
+
+
+
+## Methods
+
+This is a super fancy model. No one will understand it. $$
+\begin{aligned}
+    &1. \quad \lambda_t = \beta \mathbb{E}_t \left[ \lambda_{t+1} (1 + r_{t+1}) \right], \quad \text{(Euler equation)} \\[10pt]
+    &2. \quad \phi_t = (1-\alpha) Y_t / L_t, \quad \text{(Marginal product of labor)} \\[10pt]
+    &3. \quad W_t / P_t = \phi_t + \chi L_t^\eta, \quad \text{(Labor market clearing)} \\[10pt]
+    &4. \quad \pi_t = \beta \mathbb{E}_t \pi_{t+1} + \kappa (Y_t - \bar{Y}), \quad \text{(New Keynesian Phillips Curve)} \\[10pt]
+    &5. \quad Y_t = C_t + I_t + G_t, \quad \text{(Resource constraint)} \\[10pt]
+    &6. \quad I_t = \delta K_t + \Psi \left( \frac{I_t}{K_t} - \delta \right)^2 K_t, \quad \text{(Capital accumulation)} \\[10pt]
+    &7. \quad K_{t+1} = (1-\delta) K_t + I_t, \quad \text{(Law of motion for capital)} \\[10pt]
+    &8. \quad R_t = r_t + \pi_t, \quad \text{(Monetary policy or Fisher equation)}
+\end{aligned}
+$$
+
+## Results
+
+Die Ergebnisse sind in der Tabelle aufgeführt.
+
+| Jahr | AMG 63 E | AMG 63 S |
+|------|----------|----------|
+| 2022 | 5.345    | 3.456    |
+| 2023 | 5.456    | 3.756    |
+| 2024 | 6.089    | 3.976    |
+
+: Absatzmenge im jeweiligen Geschäftsjahr.
+
+Die Eleganz der Wagen wird auf dem Bild ersichtlich.
+
+![Mercedes AMG GT 63 S in voller Eleganz](https://img.classistatic.de/api/v1/mo-prod/images/1f/1f220416-6d01-489b-a4c2-62b77e428f36?rule=mo-1600.jpg)
+
+## Discussion
+
+## **Conclusion** 
+
+Dies ist ein Test, ob die Zusammenführung der einzelnen Sektionen einwandfrei funktioniert.
+
+
